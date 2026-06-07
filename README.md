@@ -36,4 +36,4 @@ Terimakasi..
 Buka notebook di Google Colab, lalu pilih **Runtime → Restart and Run All**
 
 ## Kesimpulan
-Selama tujuh pertemuan ini saya mempelajari alur kerja Data Science secara menyeluruh. Dimulai dari dasar Python, kemudian eksplorasi dan pembersihan data menggunakan Pandas, lalu visualisasi data dengan Matplotlib dan Seaborn untuk menemukan pola dan insight.
+Selama tujuh pertemuan ini saya mempelajari alur kerja Data Science secara menyeluruh. Dimulai dari dasar Python, kemudian eksplorasi dan pembersihan data menggunakan Pandas, lalu visualisasi data dengan Matplotlib dan Seaborn untuk menemukan pola tertentu.
