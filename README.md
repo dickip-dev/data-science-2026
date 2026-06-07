@@ -11,6 +11,14 @@ Didalamnya mencakup topik mulai dari dasar Python, eksplorasi data dengan Pandas
 
 Terimakasi..
 
+## Daftar Pertemuan
+
+| No | Topik | Notebook |
+|----|-------|----------|
+| 1 | Pengantar Python & Data Science | [Pertemuan1_Dicki_250401020112.ipynb](./Pertemuan1_Dicki_250401020112.ipynb) |
+|
+
+
 ## Tools & Library
 - Python 3
 - Pandas, NumPy
