@@ -1,8 +1,8 @@
 # data-science-2026
 Halo, salam kenal! Saya Dicki Pramana Putra
-NIM           :250401020112  
-Kelas         :IF405
-Program Studi :Informatika
+- NIM           :250401020112  
+- Kelas         :IF405
+- Program Studi :Informatika
 
 Dalam matkul data science ingin belajar tentang analisis data, ingin tau cara mengelola data yang efektif dan efisien dan juga bisa mengoperasikan aplikasi-aplikasi pendukungnya.
 
@@ -17,7 +17,7 @@ Terimakasi..
 - Matplotlib, Seaborn
 - Scikit-learn
 
-- ## Cara Menjalankan
+## Cara Menjalankan
 Buka notebook di Google Colab, lalu pilih **Runtime → Restart and Run All**
 
 ## Kesimpulan
