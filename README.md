@@ -16,7 +16,14 @@ Terimakasi..
 | No | Topik | Notebook |
 |----|-------|----------|
 | 1 | Pengantar Python & Data Science | [Pertemuan1_Dicki_250401020112.ipynb](./Pertemuan1_Dicki_250401020112.ipynb) |
-|
+| 2 | Eksplorasi Data dengan Pandas | [Pertemuan2_Dicki_250401020112.ipynb](./Pertemuan2_Dicki_250401020112.ipynb) |
+| 3 | Data Cleaning | [Pertemuan3_Dicki_250401020112.ipynb](./Pertemuan3_Dicki_250401020112.ipynb) |
+| 4 | Statistika Deskriptif | [Pertemuan4_Dicki_250401020112.ipynb](./Pertemuan4_Dicki_250401020112.ipynb) |
+| 5 | Visualisasi Data | [Pertemuan5_Dicki_250401020112.ipynb](./Pertemuan5_Dicki_250401020112.ipynb) |
+| 6 | Persiapan Data | [Pertemuan6_Dicki_250401020112.ipynb](./Pertemuan6_Dicki_250401020112.ipynb) |
+| 7 | Regresi Linear | [Pertemuan7_Dicki_250401020112.ipynb](./Pertemuan7_Dicki_250401020112.ipynb) |
+
+---
 
 
 ## Tools & Library
