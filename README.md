@@ -24,7 +24,7 @@ Terimakasi..
 | 7 | Regresi Linear | [Pertemuan7_Dicki_250401020112.ipynb](./Pertemuan7_Dicki_250401020112.ipynb) |
 | 9 | Algoritma Klasifikasi (Bagian 1) | [Pertemuan9_Dicki_250401020112.ipynb](./Pertemuan7_Dicki_250401020112.ipynb) |
 | 10 | Algoritma Klasifikasi (Bagian 2) | [Pertemuan10_Dicki_250401020112.ipynb](./Pertemuan10_Dicki_25040102011.ipynb) |
-| 11 | Unsupervised Learning: Clustering | [Pertemuan11_Dicki_250401020112.ipynb](./Pertemuan7_Dicki_250401020112.ipynb) |
+| 11 | Unsupervised Learning: Clustering | [Pertemuan11_Dicki_250401020112.ipynb](./Pertemuan11_Dicki_25040102011.ipynb) |
 | 12 | Asosiasi Data & Sistem Rekomendasi Dasar  | [Pertemuan12_Dicki_250401020112.ipynb](./Pertemuan12_Dicki_25040102011.ipynb) |
 
 ---
