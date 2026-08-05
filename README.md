@@ -26,7 +26,7 @@ Terimakasi..
 | 10 | Algoritma Klasifikasi (Bagian 2) | [Pertemuan10_Dicki_250401020112.ipynb](./Pertemuan10_Dicki_25040102011.ipynb) |
 | 11 | Unsupervised Learning: Clustering | [Pertemuan11_Dicki_250401020112.ipynb](./Pertemuan11_Dicki_25040102011.ipynb) |
 | 12 | Asosiasi Data & Sistem Rekomendasi Dasar  | [Pertemuan12_Dicki_250401020112.ipynb](./Pertemuan12_Dicki_25040102011.ipynb) |
-| 13 |   | [Pertemuan13_Dicki_250401020112.ipynb](./Pertemuan13_Dicki_25040102011.ipynb) |
+| 13 |  Deep Learning dan NLP Dasar | [Pertemuan13_Dicki_250401020112.ipynb](./Pertemuan13_Dicki_25040102011.ipynb) |
 
 ---
 
